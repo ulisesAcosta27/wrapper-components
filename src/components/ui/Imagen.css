@@ -1,0 +1,14 @@
+.logo-fares img {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.logo-container{
+    display: flex;
+    align-items: center;
+}
+
+p{
+    padding: .3rem;
+    font-weight: 600;
+}
